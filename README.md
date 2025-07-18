@@ -40,9 +40,9 @@ This project delivers a fully automated, serverless communication and reporting 
 <img src="assets/Google%20Form.png" alt="Google Form Screenshot" height="1000" width="500"/>
 
 ###  Sample Output
-📄 [View Sample Output (PDF)](assets/Sample%20Output1.pdf)
+📄 [View Sample Output1 (PDF)](assets/Sample%20Output1.pdf)
 
-📄 [View Sample Output (PDF)](assets/Sample%20Output2.pdf)
+📄 [View Sample Output2 (PDF)](assets/Sample%20Output2.pdf)
 
 ---
 
