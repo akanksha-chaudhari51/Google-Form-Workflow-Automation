@@ -39,6 +39,8 @@ This project delivers a fully automated, serverless communication and reporting 
 ###  Google Form Preview
 <img src="assets/Google%20Form.png" alt="Google Form Screenshot" height="1000" width="500"/>
 
+📄 [View Sample Output (PDF)](assets/Sample%20Output1.pdf)
+
 ---
 
 ## 📊 Workflow Diagram
