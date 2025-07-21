@@ -2,11 +2,7 @@
 
 ## 🧾 Project Overview
 
-This project delivers a fully automated, serverless communication and reporting system built on Google Workspace. It transforms Google Form submissions into actionable workflows with real-time document generation, multi-channel communication, and traceable activity logs — without any external server or code deployment.
-
-> Perfect for: Support ticketing, academic workflows, HR onboarding, certificate distribution, or internal admin operations.
-
----
+A serverless, no-code automation system built on Google Workspace, transforming Google Form submissions into dynamic workflows with real-time PDF generation, email delivery, and WhatsApp integration. Ideal for support ticketing, HR onboarding, certificate distribution, and more.
 
 ## 🔧 Tech Stack
 
@@ -19,32 +15,27 @@ This project delivers a fully automated, serverless communication and reporting 
 | **Gmail API**      | Personalized PDF email delivery          |
 | **WhatsApp Link**  | Batch-specific group chat integration    |
 
----
-
 ## 📂 Key Features
 
-- **End-to-End No-Code Automation** — Fully functional with just Google Workspace  
-- **Smart PDF Creation** — Dynamic documents from form fields using Google Docs  
-- **Automated Gmail Integration** — Instant delivery of PDFs with tailored messages  
-- **Batch-Specific WhatsApp Linking** — Context-aware group assignment  
-- **Conditional Branching** — Logic-driven flows based on input like "Issue Type"  
-- **Live Activity Logging** — Transparent, audit-ready records in Sheets  
-- **100% Serverless & Secure** — No external servers, APIs, or deployments  
-- **Scalable & Deployable** — Easily reused across teams or organizations
-
----
+- No-code, serverless automation
+- Dynamic PDF generation from form data
+- Instant Gmail delivery with tailored messages
+- Batch-specific WhatsApp group links
+- Conditional logic for custom workflows
+- Live, audit-ready activity logs in Sheets
+- Scalable and reusable across teams
 
 ## 📸 Screenshots
 
 ###  Google Form Preview
-<img src="assets/Google%20Form.png" alt="Google Form Screenshot" height="1000" width="500"/>
+
+<img src="assets/Google%20Form.png" alt="Google Form Screenshot" height="800" width="500"/>
 
 ###  Sample Output
-📄 [View Sample Output1 (PDF)](assets/Sample%20Output1.pdf)
 
-📄 [View Sample Output2 (PDF)](assets/Sample%20Output2.pdf)
+- [View Sample Output1 (PDF)](assets/Sample%20Output1.pdf)
 
----
+- [View Sample Output2 (PDF)](assets/Sample%20Output2.pdf)
 
 ## 📊 Workflow Diagram
 
